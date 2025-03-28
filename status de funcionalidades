@@ -1,0 +1,10 @@
+🧪 ¿Qué no hace todavía?
+¿Hace esto?	Estado actual
+Encontrar errores sueltos (sin stacktrace)	❌
+Analizar warnings	❌
+Buscar patrones repetitivos	❌
+Sugerir posibles soluciones	❌ (planeado en commands.py)
+Detectar el tipo de log automáticamente	❌
+Correlacionar con otros logs	❌
+Clasificar por severidad	❌
+Aplicar IA/embeddings	❌
