@@ -1,0 +1,2 @@
+tipo_error,descripcion,causa_raiz
+Desconocido,json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0),json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

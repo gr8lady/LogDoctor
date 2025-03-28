@@ -1,0 +1,3 @@
+2025-03-27 19:42:08,052 [INFO] Iniciando análisis del archivo: logs/logdoctor.log
+2025-03-27 19:42:08,053 [INFO] Exportación a CSV exitosa: logs/self_diagnosis.csv
+2025-03-27 19:42:08,053 [INFO] Análisis finalizado.

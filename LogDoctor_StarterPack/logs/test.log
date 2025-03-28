@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/app/main.py", line 10, in <module>
+    main()
+  File "/home/app/handlers.py", line 45, in main
+    procesar_datos()
+  File "/home/app/utils.py", line 22, in procesar_datos
+    json.loads("")
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
