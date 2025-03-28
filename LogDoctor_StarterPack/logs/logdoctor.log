@@ -1,3 +1,9 @@
 2025-03-27 19:42:08,052 [INFO] Iniciando análisis del archivo: logs/logdoctor.log
 2025-03-27 19:42:08,053 [INFO] Exportación a CSV exitosa: logs/self_diagnosis.csv
 2025-03-27 19:42:08,053 [INFO] Análisis finalizado.
+2025-03-27 19:54:13,321 [INFO] Iniciando análisis del archivo: logs/test.log
+2025-03-27 19:58:19,598 [INFO] Iniciando análisis del archivo: logs/test.log
+2025-03-27 19:59:37,510 [INFO] Iniciando análisis del archivo: logs/test.log
+2025-03-27 19:59:37,510 [INFO] Stack trace #1 detectado: Desconocido → json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-03-27 19:59:37,510 [INFO] Exportación a CSV exitosa: logs/salida.csv
+2025-03-27 19:59:37,510 [INFO] Análisis finalizado.
