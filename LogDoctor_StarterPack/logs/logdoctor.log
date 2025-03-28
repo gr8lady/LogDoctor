@@ -7,3 +7,9 @@
 2025-03-27 19:59:37,510 [INFO] Stack trace #1 detectado: Desconocido → json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 2025-03-27 19:59:37,510 [INFO] Exportación a CSV exitosa: logs/salida.csv
 2025-03-27 19:59:37,510 [INFO] Análisis finalizado.
+2025-03-27 20:10:22,994 [INFO] Iniciando análisis del archivo: logs/test.log
+2025-03-27 20:10:22,994 [INFO] Stack trace #1 detectado: Desconocido → json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-03-27 20:11:25,150 [INFO] Iniciando análisis del archivo: logs/test.log
+2025-03-27 20:11:25,150 [INFO] Stack trace #1 detectado: Desconocido → json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+2025-03-27 20:11:25,151 [INFO] Exportación a CSV exitosa: logs/salida.csv
+2025-03-27 20:11:25,151 [INFO] Análisis finalizado.
